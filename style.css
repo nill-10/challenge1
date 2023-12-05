@@ -58,15 +58,15 @@ a {
     font-size: 30px;
     color: #ffffff;
 }
-.content p {
+.optimize p {
     margin-bottom: 20px;
-    font-size: 20px;
+    font-size: 10px;
     color: #ffffff;
 
 }
 .flaot-left {
     float: left;
-    margin: 25px;
+    margin: 10px;
 }
 .float-right {
     float: right;
@@ -97,4 +97,10 @@ a {
 .detail p {
     margin-bottom: 32px;
     color: #ffffff;
+}
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
